@@ -6,6 +6,9 @@ a:visited {color:black; text-decoration:none;}
 a:hover {color:black; text-decoration:none;}
 a:active {color:black; text-decoration:none;}
 
+/* @#$&ing mobile */
+div, p, a, li, td {-webkit-text-size-adjust:none;}
+
 
 /* Links */
 a:hover, a:focus {
@@ -210,8 +213,8 @@ body {
 /* Intro */
 #intro {
     width: 550px;
-    height: 380px;
-	margin-bottom: 40px;
+    //height: 380px;
+	margin-bottom: 60px;
 	text-align: left;
 	line-height: 22px;
 	//font-size: 16px;
@@ -224,6 +227,7 @@ body {
 
 .i_title {
 	color: #ffe981;
+	padding-bottom: 30px;
 }
 
 .i_image {
@@ -236,6 +240,10 @@ body {
 	border: 1px solid black;
 }
 
+.i_contact {
+	padding-top: 30px;
+}
+
 
 /* Page Stuff */
 
@@ -246,7 +254,7 @@ body {
 	height: 140px;
 	position: relative;
 	z-index: 2;
-	margin: -40px auto 40px;
+	margin: -70px auto 40px;
 	background-color: #000;
 	color: #ccc;
 }
