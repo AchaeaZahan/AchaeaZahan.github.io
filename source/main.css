@@ -7,7 +7,7 @@ a:hover {color:black; text-decoration:none;}
 a:active {color:black; text-decoration:none;}
 
 
-/* @#$& mobile */
+/* Nix the mobile "smart" resizing */
 div, p, a, ul, li, tr, td, img {
 	-webkit-text-size-adjust:none !important;
 	text-size-adjust:none !important;
@@ -146,8 +146,6 @@ body {
 	padding: 5px 50px;
 	background-color: black;
 	color: #ccc;
-	font-size: 18px;
-	font-family: "TrajanProRegular",Times,Georgia;
 	//font-size: 16px;
 	//font-family: "MuseoSans",Arial,sans-serif;
 }
@@ -244,7 +242,7 @@ body {
 }
 
 .i_desc {
-	
+
 }
 
 .i_contact {
