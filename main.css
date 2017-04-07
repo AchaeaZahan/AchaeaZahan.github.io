@@ -246,8 +246,9 @@ body {
 }
 
 .i_desc {
-	font-size: 18px !important;
-	-webkit-text-size-adjust:none;
+	max-height: 1000px;
+	//font-size: 18px !important;
+	//-webkit-text-size-adjust:none;
 }
 
 .i_contact {
