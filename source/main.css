@@ -7,7 +7,7 @@ a:hover {color:black; text-decoration:none;}
 a:active {color:black; text-decoration:none;}
 
 /* @#$&ing mobile */
-div, p, a, li, td {-webkit-text-size-adjust:none;}
+div, p, a, ul, li, tr, td {-webkit-text-size-adjust:none;}
 
 
 /* Links */
@@ -239,6 +239,10 @@ body {
 .i_image img {
 	border-radius: 5px;
 	border: 1px solid black;
+}
+
+.i_desc {
+	font-size: 18px;
 }
 
 .i_contact {
