@@ -1,2 +1,2 @@
 # [Click here!](http://achaeazahan.github.io)
-Link: AchaeaZahan.github.io
+achaeazahan.github.io
