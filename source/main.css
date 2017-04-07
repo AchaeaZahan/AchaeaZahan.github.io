@@ -7,7 +7,7 @@ a:hover {color:black; text-decoration:none;}
 a:active {color:black; text-decoration:none;}
 
 /* @#$&ing mobile */
-div, p, a, ul, li, tr, td, img {-webkit-text-size-adjust:none;}
+div, p, a, ul, li, tr, td, img {-webkit-text-size-adjust:none !important;}
 
 
 /* Links */
