@@ -220,6 +220,7 @@ body {
 #intro {
     width: 550px;
     //height: 380px;
+	max-height: 1000px;
 	margin-bottom: 60px;
 	text-align: left;
 	line-height: 22px;
@@ -248,7 +249,7 @@ body {
 }
 
 .i_desc {
-	height: 245px;
+	max-height: 1000px;
 	
 }
 
