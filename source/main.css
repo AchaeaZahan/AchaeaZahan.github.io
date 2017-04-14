@@ -68,7 +68,7 @@ body {
 	width: 1200px;
 	min-height: 700px;
 	margin: 0px auto;
-    background-image: url(https://www.achaea.com/sites/all/themes/achaea/css/./images/achaea_sub_full.jpg);
+    background-image: url(achaea_sub_full.jpg);
     background-repeat: no-repeat;
     background-position: center top;
 	background-attachment: fixed;
@@ -115,7 +115,7 @@ body {
 	position: relative;
 	margin: 0px auto;
 	padding: 15px 50px;
-	background-image: url(https://www.achaea.com/sites/all/themes/achaea/css/images/backgrounds/nav-background.png);
+	background-image: url(nav-background.png);
 	font-size: 21px;
 }
 
@@ -184,7 +184,7 @@ body {
 	top: 50px;
 	right: -25px;
 	padding: 25px;
-	background: url(https://www.achaea.com/sites/all/themes/achaea/css/images/backgrounds/signup-background-small.png);
+	background: url(signup-background-small.png);
 	overflow: hidden;
 	color: black;
 }
@@ -321,7 +321,7 @@ body {
 #disclaimer a#fbLink {
     width: 65px;
     height: 75px;
-    background-image: url(https://www.achaea.com/sites/all/themes/achaea/css/./images/facebook.png);
+    background-image: url(facebook.png);
     border: 0;
     text-indent: -9999px;
     display: block;
@@ -331,7 +331,7 @@ body {
 #disclaimer a#feedLink {
     width: 65px;
     height: 75px;
-    background-image: url(https://www.achaea.com/sites/all/themes/achaea/css/./images/rss.png);
+    background-image: url(rss.png);
     border: 0;
     text-indent: -9999px;
     display: block;
@@ -341,7 +341,7 @@ body {
 #disclaimer a#twLink {
     width: 65px;
     height: 75px;
-    background-image: url(https://www.achaea.com/sites/all/themes/achaea/css/./images/twitter.png);
+    background-image: url(twitter.png);
     border: 0;
     text-indent: -9999px;
     display: block;
